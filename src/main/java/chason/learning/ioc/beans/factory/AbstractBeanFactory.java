@@ -1,4 +1,6 @@
-package chason.learning.ioc.beans;
+package chason.learning.ioc.beans.factory;
+
+import chason.learning.ioc.beans.BeanDefine;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

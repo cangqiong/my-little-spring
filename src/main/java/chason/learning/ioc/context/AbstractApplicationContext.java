@@ -1,4 +1,6 @@
-package chason.learning.ioc.beans;
+package chason.learning.ioc.context;
+
+import chason.learning.ioc.beans.factory.AbstractBeanFactory;
 
 /**
  * 抽象上下文对象

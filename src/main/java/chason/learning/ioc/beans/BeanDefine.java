@@ -1,5 +1,7 @@
 package chason.learning.ioc.beans;
 
+import chason.learning.ioc.common.PropertieValues;
+
 /**
  * Bean 定义
  *

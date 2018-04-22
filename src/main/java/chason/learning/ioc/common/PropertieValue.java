@@ -1,4 +1,4 @@
-package chason.learning.ioc.beans;
+package chason.learning.ioc.common;
 
 /**
  * @author cang

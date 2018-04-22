@@ -1,7 +1,6 @@
 package chason.learning.ioc.context;
 
-import chason.learning.ioc.beans.ApplicationContext;
-import chason.learning.ioc.beans.ClassPathXmlApplicationContext;
+import chason.learning.ioc.beans.factory.ClassPathXmlApplicationContext;
 import chason.learning.ioc.service.HelloWorldService;
 import org.junit.Test;
 

@@ -1,5 +1,8 @@
-package chason.learning.ioc.beans;
+package chason.learning.ioc.common;
 
+import chason.learning.ioc.beans.BeanDefine;
+import chason.learning.ioc.beans.BeanDefineReader;
+import chason.learning.ioc.beans.BeanReference;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;

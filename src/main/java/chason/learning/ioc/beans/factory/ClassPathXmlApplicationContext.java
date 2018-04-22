@@ -1,4 +1,10 @@
-package chason.learning.ioc.beans;
+package chason.learning.ioc.beans.factory;
+
+import chason.learning.ioc.beans.BeanDefine;
+import chason.learning.ioc.common.ResourceLoader;
+import chason.learning.ioc.common.XmlBeanDefineReader;
+import chason.learning.ioc.context.AbstractApplicationContext;
+import chason.learning.ioc.context.AutowireCapableBeanFactory;
 
 import java.util.Map;
 

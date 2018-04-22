@@ -1,4 +1,4 @@
-package chason.learning.ioc.beans;
+package chason.learning.ioc.beans.factory;
 
 /**
  * 抽象Bean工厂

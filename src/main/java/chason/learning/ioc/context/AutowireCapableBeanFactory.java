@@ -1,5 +1,10 @@
-package chason.learning.ioc.beans;
+package chason.learning.ioc.context;
 
+
+import chason.learning.ioc.beans.factory.AbstractBeanFactory;
+import chason.learning.ioc.beans.BeanDefine;
+import chason.learning.ioc.beans.BeanReference;
+import chason.learning.ioc.common.PropertieValue;
 
 import java.lang.reflect.Field;
 
